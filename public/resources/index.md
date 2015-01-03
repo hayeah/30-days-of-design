@@ -8,7 +8,8 @@
 
 ## 头像
 
-马甲头像。都是歪果仁 [randomuser.me](https://randomuser.me/photos).
+马甲头像。都是歪果仁 [randomuser.me](https://randomuser.me/photos).  
+当然你也可以使用 [Content Generator for Sketch](https://github.com/timuric/Content-generator-sketch-plugin) 这个插件来填充内容。
 
 ## 抽象花纹背景
 
@@ -45,6 +46,7 @@
 + http://sebastien-gabriel.com/freebies.html
 + http://osvaldas.info
 + http://www.sketchcasts.net/episodes
++ https://designcode.io/learn
 
 ## 移动应用设计
 
@@ -69,3 +71,4 @@
 # 其他
 
 + [CodePen 去实现 Dirbbble 设计](http://give-n-go.co/)
++ [Adobe Color CC]()
