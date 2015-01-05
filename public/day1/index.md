@@ -17,5 +17,7 @@
 
 在第四步有提到Grid Settings的截图![](http://www.medialoot.com/images/sketch-header-tut/sketch-header-tut-4.jpg)
 在某些Sketch版本比如Version 3.2.1 (9971)，显示的却是![](https://raw.githubusercontent.com/yaleeyang/30-days-of-design/master/public/day1/grid_settings.png)
+
 实际上在这个版本上更新为Layout Settings,选择View/Layout Settings...如图![](https://raw.githubusercontent.com/yaleeyang/30-days-of-design/master/public/day1/layout_settings.png)
+
 好了，坑填平了。
