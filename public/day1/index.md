@@ -16,6 +16,6 @@
 + **一号坑**：关于[主页头条设计](http://medialoot.com/blog/how-to-create-a-website-header-design-using-bohemian-coding-sketch)里提到的Grid Settings在Sketch里找不到的问题破解：
 
 在第四步有提到Grid Settings的截图![](http://www.medialoot.com/images/sketch-header-tut/sketch-header-tut-4.jpg)
-在某些Sketch版本比如Version 3.2.1 (9971)，显示的却是![](https://dn-snitch.qbox.me/FgsmHOaAD8MNV5n8B275W_kHFJdU?imageView2/0/h/320/w/480&e=1420468843&token=bbdM74CLuWzsgblM-J_FvC6N06iZVRNR7StZcXKG:dJ9Nv1CBtus3pXDzXb0lgz2akas=)
-实际上在这个版本上更新为Layout Settings,选择View/Layout Settings...如图![](https://dn-snitch.qbox.me/FlNV3ICrY4WZKAGFRtXZNWQNV0iQ?imageView2/0/h/320/w/480&e=1420469292&token=bbdM74CLuWzsgblM-J_FvC6N06iZVRNR7StZcXKG:xBtRW-lu2HeRYfceVvz_iVEpISc=)
+在某些Sketch版本比如Version 3.2.1 (9971)，显示的却是![](https://raw.githubusercontent.com/yaleeyang/30-days-of-design/master/public/day1/grid_settings.png)
+实际上在这个版本上更新为Layout Settings,选择View/Layout Settings...如图![](https://raw.githubusercontent.com/yaleeyang/30-days-of-design/master/public/day1/layout_settings.png)
 好了，坑填平了。
