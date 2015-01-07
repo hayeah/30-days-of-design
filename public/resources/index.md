@@ -64,6 +64,7 @@
 
 + http://webdesign.tutsplus.com/categories/sketch
 + [Sketch Guideline(Chinese Version)](http://www.ituring.com.cn/book/1305) Free
++ [Sketch3中文手册](http://down.ui.cn/Sketch3cn.ibooks)iBooks
 + [Sketch Plugins](http://awesome-sket.ch/)
 + [Chinese Sketch website](http://sketchcn.com/)
 
