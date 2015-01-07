@@ -18,16 +18,4 @@
 
 这里面没有需要什么特别的技巧，就是需要一些耐心。
 
-你可以自己做着试试看，也可以跟着这篇法文博文做：[Créer une icône flat avec Sketch](http://la-cascade.ghost.io/creer-une-icone-flat-avec-sketch/)
-
-![](confused-dog.jpeg)
-
-呵呵。Google Translate：
-
-+ [英文翻译](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fla-cascade.ghost.io%2Fcreer-une-icone-flat-avec-sketch%2F)
-+ [中文翻译](https://translate.google.com/translate?hl=en&sl=fr&tl=zh-CN&u=http%3A%2F%2Fla-cascade.ghost.io%2Fcreer-une-icone-flat-avec-sketch%2F&sandbox=1)
-
-凑合着读呗~
-
-
-
+你可以自己做着试试看，也可以跟着这篇博文做：[How to create a flat styled icon in Sketch 3](https://medium.com/@sokratus/how-to-create-a-flat-styled-icon-in-sketch-3-27c4bd09989)
