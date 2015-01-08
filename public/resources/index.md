@@ -54,6 +54,7 @@
 + http://osvaldas.info
 + http://scotthurff.com/
 + https://medium.com/@joulee/latest
++ http://blog.cmiscm.com/
 
 ## 资源汇集
 
@@ -72,6 +73,8 @@
 + http://capptivate.co/ 捕捉 UI 动画
 + http://useyourinterface.com 交互设计
 + http://hoverstat.es/ 前端交互
++ http://fff.cmiscm.com/ 特牛 HTML5 示范
++ http://cmiscm.com/
 
 # Sketch
 
