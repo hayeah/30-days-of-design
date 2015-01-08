@@ -65,12 +65,13 @@
 + http://www.xueui.cn/
 + http://uiweek.com/
 
-## 移动应用设计
+## 设计案例
 
 + http://beautifulpixels.com/
 + http://app.itize.us/
 + http://capptivate.co/ 捕捉 UI 动画
-+ http://useyourinterface.com/ 交互设计
++ http://useyourinterface.com 交互设计
++ http://hoverstat.es/ 前端交互
 
 # Sketch
 
