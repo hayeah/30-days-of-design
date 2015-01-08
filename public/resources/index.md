@@ -37,6 +37,8 @@
 
 + [Typewolf](http://www.typewolf.com/recommendations) - 字体使用推荐+案例
 
++ [Interactive Guide to Blog Typography](http://www.kaikkonendesign.fi/typography/)
+
 # 教程
 
 + [Hack Design](https://hackdesign.org/lessons)
@@ -51,6 +53,7 @@
 + http://sebastien-gabriel.com/freebies.html
 + http://osvaldas.info
 + http://scotthurff.com/
++ https://medium.com/@joulee/latest
 
 ## 资源汇集
 
