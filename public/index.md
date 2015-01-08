@@ -6,6 +6,36 @@
 
 Sketch 的[官方文档](http://bohemiancoding.com/sketch/support/documentation/)对初学不太友善。我会尽量找些比较好理解的第三方博文和教程。
 
+# [设计资源](resources)
+
+
+# 第 1 周 - 基本操作和常识
+
+## [第 1 天 - Sketch 初体验](day1)
+
+## [第 2 天 - 临摹 Colorful Switch](day2)
+
+## [第 3 天 - 配色](day3)
+
+## [第 4 天 - 临摹 Twitter Lite](day4)
+
+## [第 5 天 - 字体](day5)
+
+## [第 6 天 - 矢量绘图](day6)
+
+## [第 7 天 - 性感的贝塞尔曲线](day7)
+
+# 第 2 周 - 设计一个 App
+
+## [第 8 天 - 以设计马桶的方法来设计 App](day8)
+
+# 第 3 周 - 交互+动画
+
+# 第 4 周 - 自主创作
+
+
+
+
 # 我用 PS 肿么办？
 
 刚开始我会多发 Sketch 入门的资料。但这次的学习活动主要还是靠临摹+自主设计，你用什么软件没差。如果你本来就会 PS，那用熟悉的工具可能还比较好。
@@ -13,19 +43,3 @@ Sketch 的[官方文档](http://bohemiancoding.com/sketch/support/documentation/
 Sketch 有一些方便设计 UI 的功能，用起来还是挺不错的。
 
 有 30 天免费试用，先用着来呗~
-
-## [第一天 - Sketch 初体验](day1)
-
-## [第二天 - 临摹 Colorful Switch](day2)
-
-## [第三天 - 配色](day3)
-
-## [第四天 - 临摹 Twitter Lite](day4)
-
-## [第五天 - 字体](day5)
-
-## [第六天 - 矢量绘图](day6)
-
-## [第七天 - 性感的贝塞尔曲线](day7)
-
-# [设计资源](resources)
