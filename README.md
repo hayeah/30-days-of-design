@@ -1,4 +1,3 @@
-# [2015 年设计长征 主页](http://besike.com/sketch)
 
 # 运行
 
